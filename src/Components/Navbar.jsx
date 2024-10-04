@@ -9,7 +9,7 @@ const MyNavbar = () => {
     <nav className="bg-yellow-600 p-3 ">
       <div className="container mx-auto flex justify-between items-center text-white">
         <div className="flex items-center">
-          <img src="/public/images/download.png" alt="logo" className="h-12 w-[11vw]" />
+          <img src="/images/download.png" alt="logo" className="h-12 w-[11vw]" />
         </div>
         <div className="flex space-x-6">
         
